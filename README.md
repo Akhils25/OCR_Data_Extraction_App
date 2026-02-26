@@ -6,21 +6,13 @@ Real-time Text Recognition: Instantly detect and extract text using the camera f
 
 Static Image Processing: Pick images from the gallery to extract historical data.
 
-On-Device Processing: No internet connection required; data never leaves the device.
-
-Smart Data Parsing: (Optional: mention if you filter for specific data like dates, prices, or IDs).
-
-Clean UI: Built entirely with Jetpack Compose for a smooth, reactive user experience.
+On-Device Processing: No internet connection required.
 
 🛠 Tech Stack
 Language: Kotlin
 
-UI Framework: Jetpack Compose
-
 ML Engine: Google ML Kit (Text Recognition API)
 
 Concurrency: Kotlin Coroutines & Flow
-
-Dependency Injection: Hilt (Dagger)
 
 Camera API: CameraX
